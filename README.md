@@ -3,5 +3,5 @@ computer laboratoty 2560 - lab01
 #include<stdio.h>
 main()
 {
-    printf("hello,world\n");
+    printf("hello,Waraporn\n");
 }

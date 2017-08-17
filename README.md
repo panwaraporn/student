@@ -1,7 +1,10 @@
 # student
 computer laboratoty 2560 - lab01
 #include<stdio.h>
-main()
+int main()
 {
-    printf("hello,Waraporn\n");
+   char yourname[100];
+   printf("What is your name?\t");
+   scanf("%s",yourname);
+   printf("hello,%s\n",yourname);
 }
